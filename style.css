@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+#header {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#acai-container {
+    position: relative;
+    margin: 20px auto;
+    text-align: center;
+}
+
+#container-opções{
+    background-color: #f0f0f0;
+}
+
+#titulo-todas-opcões{
+    background-color: #522542;
+    padding: 10px;
+    color: #fff;
+}
+
+#sub-titulo{
+    font-size: 12px;
+    display: inline;
+    font-weight: 600;
+    margin-left: 10px;
+
+}
+
+.preço{
+   display: inline;
+   font-weight: 500;  
+}
+
+#todas-as-opções{
+    margin-left: 20px;
+    
+}
+
+.opções{
+    margin-top: 30px;
+}
+
+.titulo-opções{
+    margin-bottom: 10px;
+    font-weight: 600; 
+}
+
+.checkbox-opções{
+    margin-right: 10px;
+    margin-left: 20px;
+
+}
+
+.linha-divisoria{
+    margin-top: 20px;
+    color: #d0d1d3;
+}
+
+
